@@ -1,6 +1,4 @@
 # Exercise-01d-render-get_input-update
-
-# Exercise-01d-render-get_input-update
 Exercise for MSCH-C220, 2 September 2021
 
 A simple interactive-fiction game loop that allows players to experience eight locations from the classic Zork, implemented in Python.
